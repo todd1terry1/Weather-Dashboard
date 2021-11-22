@@ -1,3 +1,3 @@
 # Weather-Dashboard
 
-(assets/pictures/weatherpic.png)
+(Weather-Dashboard/assets/pictures/weatherpic.png)
