@@ -1,3 +1,3 @@
 # Weather-Dashboard
 
-Weather-Dashboard/assets/images/weatherpic.png
+![Todd's weather dashboard]assets/images/weatherpic.png
