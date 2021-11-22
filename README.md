@@ -1,3 +1,3 @@
 # Weather-Dashboard
 
-(assets/images/weatherpic.png)
+src= assets/images/weatherpic.png
