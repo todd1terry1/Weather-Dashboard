@@ -7,9 +7,9 @@ It uses the OpenWeather One Call API to retrieve weather data for cities across 
 ### Technologies Utilized
 
 *HTML
-*CSS
-*JavaScript/jQuery
-*BootStrap
+* CSS
+* JavaScript/jQuery
+* BootStrap
 
 ## Deployed Website
 
