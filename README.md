@@ -1,5 +1,5 @@
 # Weather-Dashboard
 
-#Description
+## Description
 
 ![Todd's weather dashboard](assets/images/weatherpic.png)
